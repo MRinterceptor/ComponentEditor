@@ -1,0 +1,21 @@
+{
+  "name": "Moisture_Sensor V1.2",
+  "blockId": "7519",
+  "app": {
+    "appName": "Moisture Sensor V1.2",
+    "visible": true,
+    "indicators": {
+      "solder": false
+    },
+    "desc": "<p></p>"
+  },
+  "circuits": [
+    {
+      "name": "default",
+      "cost": 0,
+      "coders": [
+        "Moisture_Sensor V1.2"
+      ]
+    }
+  ]
+}
